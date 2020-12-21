@@ -6,5 +6,5 @@ Creating a new branch is quike.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
-Creating a new branch is quike and simple.
+Creating a new branch is quike AND simple.
 >>>>>>> feacture1
